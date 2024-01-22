@@ -1,0 +1,93 @@
+{
+    "1": {
+      "id": 1,
+      "title": "Jugo de Naranja",
+      "description": "Refrescante jugo de naranja recién exprimido",
+      "price": 150,
+      "thumbnail": "naranja_jugo.jpg",
+      "stock": 100,
+      "code": "jugo-naranja"
+    },
+    "2": {
+      "id": 2,
+      "title": "Café Frío Vanilla",
+      "description": "Café frío con un toque de vainilla",
+      "price": 120,
+      "thumbnail": "cafe_frio_vanilla.jpg",
+      "stock": 80,
+      "code": "cafe-frio-vanilla"
+    },
+    "3": {
+      "id": 3,
+      "title": "Infusión de Manzanilla",
+      "description": "Infusión relajante de manzanilla",
+      "price": 90,
+      "thumbnail": "manzanilla_infusion.jpg",
+      "stock": 150,
+      "code": "infusion-manzanilla"
+    },
+    "4": {
+      "id": 4,
+      "title": "Jugo de Fresa",
+      "description": "Delicioso jugo de fresa natural",
+      "price": 160,
+      "thumbnail": "fresa_jugo.jpg",
+      "stock": 120,
+      "code": "jugo-fresa"
+    },
+    "5": {
+      "id": 5,
+      "title": "Café Frío Mocha",
+      "description": "Café frío con un toque de chocolate",
+      "price": 130,
+      "thumbnail": "cafe_frio_mocha.jpg",
+      "stock": 70,
+      "code": "cafe-frio-mocha"
+    },
+    "6": {
+      "id": 6,
+      "title": "Infusión de Menta",
+      "description": "Infusión refrescante de menta",
+      "price": 95,
+      "thumbnail": "menta_infusion.jpg",
+      "stock": 100,
+      "code": "infusion-menta"
+    },
+    "7": {
+      "id": 7,
+      "title": "Jugo de Mango",
+      "description": "Exquisito jugo de mango tropical",
+      "price": 180,
+      "thumbnail": "mango_jugo.jpg",
+      "stock": 90,
+      "code": "jugo-mango"
+    },
+    "8": {
+      "id": 8,
+      "title": "Café Frío Caramelo",
+      "description": "Café frío con un toque de caramelo",
+      "price": 140,
+      "thumbnail": "cafe_frio_caramelo.jpg",
+      "stock": 60,
+      "code": "cafe-frio-caramelo"
+    },
+    "9": {
+      "id": 9,
+      "title": "Infusión de Frutos Rojos",
+      "description": "Infusión de frutos rojos antioxidante",
+      "price": 100,
+      "thumbnail": "frutos_rojos_infusion.jpg",
+      "stock": 130,
+      "code": "infusion-frutos-rojos"
+    },
+    "10": {
+      "id": 10,
+      "title": "Jugo de Piña",
+      "description": "Refrescante jugo de piña natural",
+      "price": 170,
+      "thumbnail": "pina_jugo.jpg",
+      "stock": 110,
+      "code": "jugo-pina"
+    }
+  }
+  
